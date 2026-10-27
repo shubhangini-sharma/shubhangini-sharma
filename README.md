@@ -6,7 +6,7 @@ Project and client delivery professional with an Executive MBA from MDI Gurgaon 
 
 | Project | Question it answers | Tools |
 | --- | --- | --- |
-| [London Jets customer analysis](./london-jets-dashboard) | Who are the most valuable customers, and which segments drive sales? | Power BI |
+| [London Jets customer analysis]([./london-jets-dashboard](https://github.com/shubhangini-sharma/london-jets-dashboard)) | Who are the most valuable customers, and which segments drive sales? | Power BI |
 | [Fintech adoption in India](./fintech-adoption-dashboard) | What do fintech users value, and where do reviews show the biggest gaps? | Power BI |
 
 ## Tools
